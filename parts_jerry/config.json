@@ -70,17 +70,18 @@
  "stickers": true,
  "youtube": true,
  "card": {
-  "fill": "#ef9d63",
-  "border": "#f7c9a4",
-  "track": "#fdeade",
-  "text": "#7a4620",
-  "sub": "#c08a63",
-  "line": "#f6d8c1",
-  "panel": "#fffaf6",
   "bg": "#ffffff",
-  "soft": "#fdeee2",
-  "border2": "#e88a48",
-  "deco": "bear"
+  "fill": "#43444b",
+  "border": "#43444b",
+  "border2": "#33343a",
+  "text": "#2b2c31",
+  "sub": "#8a8b92",
+  "track": "#ececef",
+  "panel": "#fbfbfc",
+  "soft": "#f3f4f6",
+  "line": "#e3e4e8",
+  "deco": "bear",
+  "band_light": 0.955
  },
  "titles": [
   [
