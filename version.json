@@ -1,13 +1,13 @@
 {
- "version": 1787400373,
+ "version": 1787409427,
  "files": {
-  "mascot.py": "839f6ab1e7ac4d9575cf14a0fead93f222778f8d195ea7abbf8603b2becd2fa1",
+  "mascot.py": "fdf8d94007e16d50cdc2628c79d4c3f8fea9004fb480c8cb4154c335c7173610",
   "parts_jerry/arm_key.png": "2d8cc24be4ee06bc39807bbf262d09749e0202d02bb9f1f5eea67c4020809ae8",
   "parts_jerry/arm_pen.png": "2f6aa16a7be6722615f0e31f71a209395d79773c3ce57cebd7727dc220243f29",
   "parts_jerry/arm_right.png": "2d8cc24be4ee06bc39807bbf262d09749e0202d02bb9f1f5eea67c4020809ae8",
   "parts_jerry/arm_right_typing.png": "2d8cc24be4ee06bc39807bbf262d09749e0202d02bb9f1f5eea67c4020809ae8",
   "parts_jerry/body_open.png": "e6f99e0ff6e3be8b6d6a9cf0ed33ee92e393ee0ad62da0f1396cb3fc894c4218",
-  "parts_jerry/config.json": "b41fc5f21c1ebba44d7c78a99f0d2fde185cd5420b9f38b64c4139cfcf214a57",
+  "parts_jerry/config.json": "bdbf07309655439d9102dfbcee42325f8c9e6b5c21d5ad8877ddbdbdbc14d8b2",
   "parts_jerry/crown.png": "b1b7426a0222ac294a782cb06db6c9c4aba4e660591dd1761dc9e4da050175fc",
   "parts_jerry/desk.png": "3b79cca62366f3d414dcdfdb025b3aec4f3705d74b390d9fe80e545e7d008573",
   "parts_jerry/eyes_closed.png": "0816d0a3af1c37dcfefe98dcb68ac91ef82146b98e97aab04928ff9fc61c70d9",
@@ -478,6 +478,9 @@
   "youtube_player.py": "8fd216056f4f61075a8646a791389b05ad0082c40864d84b16773c2302c74f2d"
  },
  "notes": [
-  "**악마 꼬리와 천사 날개가 부드럽게 움직입니다.** 초당 2.7장·3.8장만 바뀌어서 이 프로그램에서 가장 뚝뚝 끊기던 것이었어요. 이제 7.1장·10장으로 늘었습니다 (늘어나는 메모리는 1MB 안쪽이에요)"
+  "**캐릭터 가장자리가 매끈해졌어요.** 몸 테두리가 도트처럼 계단지던 것을 없앴습니다 — 그림의 원래 가장자리가 그대로 나옵니다 (맥에서는 이 방법을 못 써서 지금 그대로예요)",
+  "타이머 카드·말풍선·동그란 단추의 모서리도 부드러워졌어요",
+  "말풍선 바깥에 흰 테처럼 보이던 그림자를 없애고 테두리를 조금 굵게 했습니다. 꼬리도 몸통과 자연스럽게 이어지고 끝이 뾰족해졌어요",
+  "이상하면 환경설정 → 표시 → '부드러운 가장자리'에서 끌 수 있어요"
  ]
 }
