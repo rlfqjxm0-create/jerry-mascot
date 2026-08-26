@@ -1,7 +1,7 @@
 {
- "version": 1787705667,
+ "version": 1787709915,
  "files": {
-  "mascot.py": "89c7c27e06dcc3d628d5f52eae9249b85e8599e8fd5ed1583c65a0d18ceefddb",
+  "mascot.py": "018be95a9e3a5d7bb3d8bd20d600d438dc46a9ad7d7710fb8a518fa457c6946c",
   "parts_jerry/arm_key.png": "727eccc571f63602f56125e23b36dc7ca1aabaf51d081c773adc9d1167b6e638",
   "parts_jerry/arm_pen.png": "6cdb142ef76b7a752268e1ea915275a7203d7d7cb256f53ef871e8c841c40593",
   "parts_jerry/arm_right.png": "727eccc571f63602f56125e23b36dc7ca1aabaf51d081c773adc9d1167b6e638",
