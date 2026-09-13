@@ -1,7 +1,7 @@
 {
- "version": 1789224621,
+ "version": 1789257647,
  "files": {
-  "mascot.py": "5fccdc816afc94fd084dcd2c19a2a0e083ba273de2871d02f8bc3b4cca0b849e",
+  "mascot.py": "1eca135341642be61ba8ad23fcc5e3441ca685ace5f135c611bd39cd7e31abef",
   "parts_jerry/arm_key.png": "6c3bbe09fc8f2f2a03cc64cbc1815e97ab77ab4c6b88ce2d2239ffeb3b1a0163",
   "parts_jerry/arm_pen.png": "576096768dda06f830b32c17917beaeac266793db2d1134717e1d496d0a68f17",
   "parts_jerry/arm_right.png": "6c3bbe09fc8f2f2a03cc64cbc1815e97ab77ab4c6b88ce2d2239ffeb3b1a0163",
@@ -13,7 +13,7 @@
   "parts_jerry/chip_meta.json": "19d1e6c8695852c7445dbb541df4050fb3d0ca7eb0fcbfb71f30cd96c3c757d2",
   "parts_jerry/chip_movie.png": "43bfa1493af45a8adc05b455acda466b56cad4394229cd8a706ae5cde09ed642",
   "parts_jerry/chip_spoon.png": "9c1f69af5de27a78fcff161bc8cacbe21aa3ce8cc5b8ea8294517ae23925f08f",
-  "parts_jerry/config.json": "fe427903b8ae7a829fa79fdbb0c1b7e792678eff46f6ee7514d9b5dc30d12250",
+  "parts_jerry/config.json": "c69edbb47bbe64017854c5cd271eacde40cc2fc64352b2a20ae1a74095ccbd68",
   "parts_jerry/config.json.bak": "f9b99e709f3e899b4dbd8b57325f10ddb6483abe71e4b8850a1b89388f116625",
   "parts_jerry/crown.png": "b1b7426a0222ac294a782cb06db6c9c4aba4e660591dd1761dc9e4da050175fc",
   "parts_jerry/desk.png": "c7ca922e6ef58c27d369d2b5dc4d4ba04c987e492ff51070eec7c97740bc545f",
@@ -577,6 +577,10 @@
   "stickers/__init__.py": "d77e3dc92cb353dced8d192c140643c6458bc3901facdf2e0a0d0830fa4244b7",
   "youtube_player.py": "6a1893353a56493b0168ecf6ab79433dd3bec126768add4ade33420407007dae"
  },
- "notes": [],
- "silent": true
+ "notes": [
+  "**다크 테마가 생겼어요 (윈도우)** — 환경설정 › 표시 › 테마에서 '다크'를 고르고 저장하면, 캐릭터 타이머 카드·할 일/마감 말풍선·홈·뽀모도로·플레이리스트·환경설정·우클릭 메뉴까지 모든 창이 흑백 톤으로 바뀌어요",
+  "다크 테마에서는 글자가 하얗게 보이고, 마감 말풍선의 D-day 는 가까워지면 원래처럼 주황·빨강으로 보여요. 홈 타이틀 그림은 흑백, 바탕 점무늬는 은은하게 바뀌어요",
+  "음악을 트는 동안 CPU 사용이 절반 가까이 줄었어요 — 머리 위 음표 하나 때문에 재생 내내 초당 60번 다시 그리고 있었어요 · 데드라인 시계가 쓰는 메모리도 줄였어요",
+  "뽀모도로 창 — 아래 가장자리를 잡고 끌어도 크기가 바뀌어요 · 끌어 정한 크기(배율·넓힌 폭)를 다음에 켤 때도 기억해요 (데드라인·스톱워치 탭에서 끄거나 탭을 바꿔도 작아지지 않아요)"
+ ]
 }
